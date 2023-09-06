@@ -3,13 +3,4 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
 	plugins: [sveltekit()]
-
-
-	,build : {
-		rollupOptions: {
-			output: {
-				inlineDynamicImports: true,
-			}
-		}
-	}
 });
