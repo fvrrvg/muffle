@@ -48,7 +48,7 @@ $ npm run dev
 ##### Secrets (.env)
 
 ```bash
-$ VITE_API_ENDPOINT=#backend_endpoint
+$ VITE_API_ENDPOINT=backend_endpoint
 ```
 
 ## Contributing
