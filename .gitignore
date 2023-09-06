@@ -1,0 +1,19 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore logs and temporary files
+*.log
+*.log.*
+*.swp
+*.tmp
+
+#svelte files
+
+.svelte-kit
+# Ignore package-lock files
+package-lock.json
+
+.nmprc
+
+
+
