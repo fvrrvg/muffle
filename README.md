@@ -33,7 +33,7 @@ $ SPOTIFY_SECRET=your_spotify_client_secret
 ##### Endpoint
 
 ```http
-GET /randomy
+GET /random
 ```
 
 
