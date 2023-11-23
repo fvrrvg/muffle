@@ -20,7 +20,7 @@ The backend is deployed using [Render](https://render.com). And the frontend is 
 
 ```bash
 $ git clone https://github.com/fvrrvg/muffle.git
-$ cd muffle/backend
+$ cd muffle/BACKEND
 $ go run .
 ```
 
@@ -40,7 +40,7 @@ GET /random
 ### Frontend
 
 ```bash
-$ cd muffle/frontend
+$ cd muffle/FRONTEND
 $ npm install
 $ npm run dev
 ```
@@ -48,7 +48,7 @@ $ npm run dev
 ##### Secrets (.env)
 
 ```bash
-$ VITE_API_ENDPOINT=#backend_endpoint
+$ VITE_API_ENDPOINT=backend_endpoint
 ```
 
 ## Contributing
