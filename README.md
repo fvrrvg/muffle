@@ -3,7 +3,7 @@
 Hi! [Muffle](https://muffle.vercel.app) is a website that gives you a random song across 126 genres and 70 years in less than a second. i made it for music producers for the sake of sampling and music geeks in general.
 
 <img src="./pictures/1.png" width="100%" height="100%" />
-<img src="./pictures/3.png" width="100%" height="100%" />
+<img src="./pictures/2.png" width="100%" height="100%" />
 
 ## Technologies
 
