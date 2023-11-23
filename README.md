@@ -2,16 +2,17 @@
 
 Hi! [Muffle](https://muffle.vercel.app) is a website that gives you a random song across 126 genres and 70 years in less than a second. i made it for music producers for the sake of sampling and music geeks in general.
 
+<img src="./pictures/1.png" width="100%" height="100%" />
+<img src="./pictures/3.png" width="100%" height="100%" />
 
 ## Technologies
 
- 1. [Golang](https://go.dev) (Backend)
- 2. [Svelte](https://svelte.dev) (Frontend)
+1.  [Golang](https://go.dev) (Backend)
+2.  [Svelte](https://svelte.dev) (Frontend)
 
 ### Deployment
 
 The backend is deployed using [Render](https://render.com). And the frontend is deployed using [Vercel](https://vercel.com)
-
 
 ## Running Locally
 
@@ -36,7 +37,6 @@ $ SPOTIFY_SECRET=your_spotify_client_secret
 GET /random
 ```
 
-
 ### Frontend
 
 ```bash
@@ -52,6 +52,7 @@ $ VITE_API_ENDPOINT=#backend_endpoint
 ```
 
 ## Contributing
+
 Feel free to open an issue or submit a pull request.
 
 ##### Contact Me
