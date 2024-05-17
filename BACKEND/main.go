@@ -91,7 +91,7 @@ func startServer() {
 		})
 	})
 
-	err = app.Listen(":5000")
+	err = app.Listen(":" + os.Getenv("PORT"))
 	if err != nil {
 		log.Printf("Server error occurred: %v\n", err)
 		startServer()
