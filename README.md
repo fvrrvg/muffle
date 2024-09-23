@@ -59,4 +59,4 @@ Feel free to open an issue or submit a pull request.
 
 If you are a graphic designer who came across muffle and want to help with the logo u can find me through my email here :)
 
-[fvrrvg@gmail.com](mailto:fvrrvg@gmail.com)
+[mohamedfarrag@protonmail.com](mailto:mohamedfarrag@protonmail.com)
